@@ -1,0 +1,14 @@
+dataset/racks_a.egg
+dataset/racks_f.egg
+dataset/*
+
+model/pred_temp_GRU.ipynb
+model/pred_temp_load_GRU.ipynb
+model/models/*
+model/json/*
+model/fig/*
+model/*
+
+*.zip
+*.7z
+*.csv
